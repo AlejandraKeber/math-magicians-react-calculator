@@ -38,6 +38,11 @@
   border-color: #b8b8bb;
 }
 
+.btn:hover {
+  cursor: pointer;
+  border: solid 2px #858493;
+}
+
 .gray {
   background-color: #e2e2e2;
 }
