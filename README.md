@@ -106,7 +106,6 @@ To run the project, execute the following command:
 
 In the future I am going to add the following:
 
-- [ ] **[Create a SPA that include 3 sub-pages]**
 - [ ] **[Test the application]**
 - [ ] **[Deploy the app]**
 
