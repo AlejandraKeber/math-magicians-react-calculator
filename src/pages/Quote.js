@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Home = () => (
+const Quote = () => (
   <div>
     <p>
       Mathematics is not about numbers, equations, computations,
@@ -9,4 +9,4 @@ const Home = () => (
   </div>
 );
 
-export default Home;
+export default Quote;
