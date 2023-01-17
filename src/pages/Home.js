@@ -1,4 +1,5 @@
 import React from 'react';
+import './Home.css';
 
 const Home = () => {
   const lorem = `Lorem ipsum dolor sit amet, consectetur adipiscing elit,
@@ -10,7 +11,7 @@ const Home = () => {
   culpa qui officia deserunt mollit anim id est laborum.`;
 
   return (
-    <div>
+    <div className="homewrapper">
       <h1>Welcome to our page!</h1>
       <p>{lorem}</p>
       <p>{lorem}</p>
