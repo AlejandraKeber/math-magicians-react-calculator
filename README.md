@@ -51,7 +51,7 @@ The app was developed using React js, JavaScript and CSS
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com) Not yet avilable
+- [Live Demo Link](https://math-magicians-react-calculator.onrender.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -107,7 +107,6 @@ To run the project, execute the following command:
 In the future I am going to add the following:
 
 - [ ] **[Test the application]**
-- [ ] **[Deploy the app]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
